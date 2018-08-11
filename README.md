@@ -23,7 +23,7 @@ w2v in this project has been used on default settings
 
 If you want a repeatable way to reduce dimensions from your models lookup pca. If you want better clustering but needs more optimization, luck, and skepticism use t-SNE. TensorFlow has good stuff for this, I was using it but then instead of reinventing the wheel I decided to just go the direction of temporal analysis rather than an interactive map.
 
-validation was done by going onto disease-ontology.org and manually seeing the last common ancestor in the branch hierarchy between the two dieseases, you can use your own method just establish a ground truth about units of measurement because abstracts are going to suck about telling you info like argentina:buenos_aires::peru:? because scientists aren't talking about their holiday trip to machu pichu when they have to publish where as google news most certainly does.
+validation was done by going onto disease-ontology.org and manually seeing the last common ancestor in the branch hierarchy between the two dieseases, you can use your own method just establish a ground truth about units of measurement because abstracts are going to suck about telling you info like argentina:buenos_aires:: peru:? because scientists aren't talking about their holiday trip to machu pichu when they have to publish where as google news most certainly does.
 
 naive approach was take a term, find all the words that appear in an abstract with that word and keep the counts of these associated words. If an associated word has a count that puts it in the top 50% of that term's associated words then we call it a frequent word. Similarity between terms a,b is computed by the intersection of frequent words for a,b divided by the union.
 
