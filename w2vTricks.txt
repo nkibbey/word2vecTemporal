@@ -1,0 +1,108 @@
+howdy!
+
+This simple text file is a quick and dirty guide to things I found out during the time I played around with word2vec.
+
+------------------------------------------------ASSUMPTIONS---------------------
+You already know...
+word2vec takes in text and outputs vectors
+this textfile isn't close to all encompassing 
+approach with skepticism and curiosity
+
+------------------------------------------------SUGGESTIONS---------------------
+Before you trust me, know there are a lot of good resources. 
+Use the ol'google machine when in doubt since they were the ones who wrote word2vec.
+Someone wrote a paper, "How to Train Good Word Embeddings for Biomedical NLP"
+That'd probably would've been a nice little read before I started but you get to learn from my mistakes.
+Pdf: http://www.aclweb.org/anthology/W16-2922
+Github: https://github.com/cambridgeltl/BioNLP-2016
+
+The tutorial/explanation in my opinion that best articlated word2vec architecture is on chris mccormick's website
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/ (he has other tutorials)
+In addition, the c files in this project are the identical implementation of google's first word2vec
+only difference is that they include chris mccormick's comments which I found helpful
+
+lookup gensim and word2vec if you like python. 
+If you use gensim and don't like 10 keyed model load in times of big models 
+  then use scripts/greppy2.sh which takes advantage of w2v standard format
+------------------------------------------------OVERVIEW------------------------
+Before reading this you may feel...
+Word2Vec is cool but intimidating
+What is a corpus and why does this thing run on dead people?
+There are a lot of options and factors I should probably consider
+
+After reading this you'll learn...
+Word2Vec is cool and easy
+Corpus is just a fancy word for a text file
+eh, the parameters are confusing but who needs all that noise
+
+-----------------------------------------------INFORMAL EXPLANATION-------------
+Enough talk, now to the quick and dirty
+>> be bob, a curious fellow who just cloned this repository and is feeling confident
+> Woohoo, I'm in my terminal about to do a Word2Vec!
+
+cd w2v/
+make
+./word2vec -train ~/Documents/asdf/asdfjkl/mytext.txt -output ~/some_model1
+
+> Man, word2vec is exciting!
+>>> There are two things to realize here: bob has some great naming conventions and it's easy to run word2vec
+
+In the project I did I had a lot of data that I grouped together.
+For a given model I was using over a million abstracts concatenated together.
+I also had only soft truths like colitis and ulcers to me are more similar than measles and carcinoma.
+For that reason I kept it simple and ran on default settings and I got a model within 5 minutes.
+
+RULE OF THUMB -- 
+If you don't know what you're looking for or you are merely looking to see some relationships keep the default settings.
+Under these settings I found that if I had a model built from 500,000 abstracts it had a similar shape as the 1,000,000 + ones of the same groups.
+When I went down to 100,000 abstracts data was crazy and highly fluctuant so whatever you decide, do it consistently.
+The more data you use the less fine tuning you need, when you keep track of more information the more time you'll spend.
+
+-----------------------------------------------VERBOSE EXPLANATION--------------
+if you run ./word2vec you will see all the parameters you can play with.
+I have provided my own impressions of those.
+
+Options:
+Parameters for training:
+	-train <file>
+		Quite important for obvious reasons.
+	-output <file>
+		Use a good naming convention so you can iterate through models easily while knowing what's going on
+	-size <int>
+		determines n in n-dimensional vector. I believe the common range is between (100-1000)
+		1000 is overkill, typically increasing features will decrease term similarity although models tend to still represent same shape
+		when I use 100 I'm running 300k words/sec at 300 it's more like 100k/sec -> Caring about your features takes time
+	-window <int>
+		Changes the size of how much "context" you include. Will vastly change your model and I'd just keep it at 5, seems good to me.
+	-sample <float>
+		ehh, make what you will about it. I didn't experiment with it...
+	-hs <int>
+		If you understand why you need to use this then you probably don't need this guide.
+	-negative <int>
+		didn't change it...
+	-threads <int>
+		Threads are threads, you don't need to play with it if you're not experiencing huge bottleneck
+	-iter <int>
+		Increasing probably makes your data more consisent and a longer run time.
+	-min-count <int>
+		Nice to use to get rid of more rare words and potential junk 
+	-alpha <float>
+		A little bit like a learning granularity. I feel that the common adjusted range is .1-.2 but that may be for skipgram
+	-classes <int>
+		Seems useful for clustering, I didn't play with it though
+	-debug <int>
+		yeah i don't know how to use this thang
+	-binary <int>
+		use if memory is your crunch but if it's time then it's nice to have things stored with less steps
+	-save-vocab <file>
+		pretty silly when it's pretty much your model with a 0 dimensional vector
+	-read-vocab <file>
+		pretty cool idea to narrow down what's important to your model
+	-cbow <int>
+	    default is cbow which answers the question "given my context what is my next word"
+	    skip gram is more like "given my word what's my context"
+	    or at least that's my impression...
+	    I think skip is better for more rare things and cbow just works for a nice fast and functional
+
+
+
