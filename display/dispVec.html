@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Oy</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="../retrofitting/plots.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+        function drawChart() {
+            var plotter = plot;
+/*            var data = google.visualization.arrayToDataTable([
+                ['Quite', 'Arbitrary', {type: 'string', role:'annotation'}],
+                [ 8,      12, 'hi'],
+                [ 43,      5.5, 'what'],
+                [ 11,     14, 'is'],
+                [ 4,      5, 'up'],
+                [ 3,      -3.5, 'with'],
+                [ plotter[0].x,    plotter[0].y, plotter[0].name]
+            ]);
+*/
+            var options = {
+                title: 'big old thang',
+                legend: 'none'
+            };
+
+            let data = new google.visualization.DataTable();
+            data.addColumn('number', 'x');
+            data.addColumn('number', 'y');
+            data.addColumn({type: 'string', role: 'annotation'});
+            for (let i in plotter) {
+                data.addRow([parseFloat(plotter[i].x), parseFloat(plotter[i].y), plotter[i].name]);
+            }
+
+            var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+
+            chart.draw(data, options);
+        }
+    </script>
+</head>
+    <body>
+        <div id="chart_div" style="width: 900px; height: 500px;"></div>
+    </body>
+</html>

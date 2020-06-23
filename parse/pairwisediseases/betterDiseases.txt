@@ -1,0 +1,877 @@
+gaucher
+kleptomania
+p
+pyromania
+t
+trichotillomania
+a
+auditory hallucination
+d
+delusion
+f
+folie à deux
+p
+paranoia
+s
+schizophreniaa
+avoidant personality disorder
+d
+dependent personality disorder
+o
+obsessive-compulsive personality disorder
+p
+psychopathy
+s
+schizoid personality disordera
+atypical depression
+d
+depression (mental illness)
+dysthymia
+m
+mood disorder
+s
+seasonal affective disordera
+anorexia nervosa
+b
+binge eating
+bulimia nervosa
+d
+dietary supplement
+p
+pica (disorder)
+a
+anxiety
+anxiety disorder
+g
+generalized anxiety disorder
+o
+obsessive–compulsive disorder
+p
+panic attack
+panic disorder
+post-traumatic stress disorder
+primarily obsessional ocd
+s
+social anxiety disorder
+specific phobia
+a
+addictive personality
+alcohol withdrawal
+alcoholism
+b
+bupropion
+c
+cage questionnaire
+clinical institute withdrawal assessment for alcohol
+cocaine withdrawal
+d
+delirium tremens
+disulfiram
+drug addiction
+e
+e-cigarette
+g
+gambling addiction
+h
+hogares crea
+m
+methadone
+n
+naloxone
+naltrexone
+nicotine replacement therapy
+list of mental disorders
+mental illness
+a
+adjustment disorder
+attention-deficit hyperactivity disorder
+b
+body dysmorphic disorder
+brief psychotic disorder
+c
+catatonia
+chronic stress
+combat stress reaction
+conduct disorder
+d
+delusional disorder
+dementia praecox
+dissociative identity disorder
+dsm iv
+e
+erotomania
+h
+halfway house
+hypersexuality
+hypochondriasis
+i
+infantilism
+insanity defense
+l
+logorrhea
+m
+madness
+megalomania
+melancholia
+mental breakdown
+misophonia
+münchausen syndrome
+n
+neurosis
+o
+oppositional defiant disorder
+p
+panic attack
+paraphilia
+pathological liar
+r
+reactive attachment disorder
+s
+schizoaffective disorder
+schizophrenia
+separation anxiety disorder
+suicidal ideation
+c
+cirrhosis
+h
+hepatitis
+hepatitis a
+hepatitis b
+hepatitis c
+hepatoblastoma
+hepatocellular carcinoma
+j
+jaundice
+l
+liver cancer
+liver disease
+b
+bacillus calmette-guérin
+m
+mantoux test
+p
+polio vaccine
+v
+vaccination
+vaccine
+a
+aids
+c
+cervical cancer
+chlamydia infection
+g
+gonorrhea
+h
+hepatitis b
+hepatitis c
+herpes simplex
+hiv
+human papillomavirus
+l
+lymphogranuloma venereum
+s
+safe sex
+syphilis
+t
+trichomoniasis
+tubo-ovarian abscess
+v
+vaginal discharge
+c
+chagas disease
+chikungunya
+d
+dengue fever
+l
+leishmaniasis
+m
+malaria
+murine typhus
+q
+q fever
+s
+sleeping sickness
+w
+west nile virus
+z
+zika fever
+zoonosis
+a
+antibiotic resistance
+b
+blight
+bronchopneumonia
+buruli ulcer
+c
+cbrne
+cellulitis
+conjunctivitis
+creutzfeldt–jakob disease
+croup
+culex
+cystitis
+e
+ebola virus
+epidemic
+list of epidemics
+g
+gastroenteritis
+great stink
+h
+list of historical plagues
+i
+infection
+k
+kuru (disease)
+m
+mad cow disease
+meningitis
+n
+nipah virus disease
+p
+pandemic
+pestilence
+plague of athens
+pleurisy
+pneumonia
+prion disease
+q
+quarantine
+r
+respiratory tract infection
+s
+schistosomiasis
+t
+tonsillitis
+v
+vaccine
+vertical transmission
+Τ
+acinetobacter infections	acinetobacter baumannii
+actinomycosis	actinomyces israelii, actinomyces gerencseriae and propionibacterium propionicus
+african sleeping sickness (african trypanosomiasis)	trypanosoma brucei
+aids (acquired immune deficiency syndrome)	hiv (human immunodeficiency virus)
+amebiasis	entamoeba histolytica
+anaplasmosis	anaplasma genus
+anthrax	bacillus anthracis
+arcanobacterium haemolyticum infection	arcanobacterium haemolyticum
+argentine hemorrhagic fever	junin virus
+ascariasis	ascaris lumbricoides
+aspergillosis	aspergillus genus
+astrovirus infection	astroviridae family
+babesiosis	babesia genus
+bacillus cereus infection	bacillus cereus
+bacterial pneumonia	multiple bacteria
+bacterial vaginosis (bv)	multiple bacteria
+bacteroides infection	bacteroides genus
+balantidiasis	balantidium coli
+baylisascaris infection	baylisascaris genus
+bk virus infection	bk virus
+black piedra	piedraia hortae
+blastocystis hominis infection	blastocystis hominis
+blastomycosis	blastomyces dermatitidis
+bolivian hemorrhagic fever	machupo virus
+borrelia infection	borrelia genus
+botulism (and infant botulism)	clostridium botulinum; note: botulism is not an infection by clostridium botulinum but caused by the intake of botulinum toxin.
+brazilian hemorrhagic fever	sabia
+brucellosis	brucella genus
+burkholderia infection	usually burkholderia cepacia and other burkholderia species
+calicivirus infection (norovirus and sapovirus)	caliciviridae family
+campylobacteriosis	campylobacter genus
+candidiasis (moniliasis; thrush)	candida albicans and other candida species
+cat-scratch disease	bartonella henselae
+cellulitis	usually group a streptococcus and staphylococcus
+chagas disease (american trypanosomiasis)	trypanosoma cruzi
+chancroid	haemophilus ducreyi
+chickenpox	varicella zoster virus (vzv)
+chlamydia	chlamydia trachomatis
+chlamydophila pneumoniae infection	chlamydophila pneumoniae
+cholera	vibrio cholerae
+chromoblastomycosis	usually fonsecaea pedrosoi
+clonorchiasis	clonorchis sinensis
+clostridium difficile infection	clostridium difficile
+coccidioidomycosis	coccidioides immitis and coccidioides posadasii
+colorado tick fever (ctf)	colorado tick fever virus (ctfv)
+common cold (acute viral rhinopharyngitis; acute coryza)	usually rhinoviruses and coronaviruses.
+creutzfeldt-jakob disease (cjd)	cjd prion
+crimean-congo hemorrhagic fever (cchf)	crimean-congo hemorrhagic fever virus
+cryptococcosis	cryptococcus neoformans
+cryptosporidiosis	cryptosporidium genus
+cutaneous larva migrans (clm)	usually ancylostoma braziliense; multiple other parasites
+cyclosporiasis	cyclospora cayetanensis
+cysticercosis	taenia solium
+cytomegalovirus infection	cytomegalovirus
+dengue fever	dengue viruses (den-1, den-2, den-3 and den-4) – flaviviruses
+dientamoebiasis	dientamoeba fragilis
+diphtheria	corynebacterium diphtheriae
+diphyllobothriasis	diphyllobothrium
+dracunculiasis	dracunculus medinensis
+ebola hemorrhagic fever	ebolavirus (ebov)
+echinococcosis	echinococcus genus
+ehrlichiosis	ehrlichia genus
+enterobiasis (pinworm infection)	enterobius vermicularis
+enterococcus infection	enterococcus genus
+enterovirus infection	enterovirus genus
+epidemic typhus	rickettsia prowazekii
+erythema infectiosum (fifth disease)	parvovirus b19
+exanthem subitum	human herpesvirus 6 (hhv-6) and human herpesvirus 7 (hhv-7)
+fasciolopsiasis	fasciolopsis buski
+fasciolosis	fasciola hepatica and fasciola gigantica
+fatal familial insomnia (ffi)	ffi prion
+filariasis	filarioidea superfamily
+food poisoning by clostridium perfringens	clostridium perfringens
+free-living amebic infection	multiple
+fusobacterium infection	fusobacterium genus
+gas gangrene (clostridial myonecrosis)	usually clostridium perfringens; other clostridium species
+geotrichosis	geotrichum candidum
+gerstmann-sträussler-scheinker syndrome (gss)	gss prion
+giardiasis	giardia intestinalis
+glanders	burkholderia mallei
+gnathostomiasis	gnathostoma spinigerum and gnathostoma hispidum
+gonorrhea	neisseria gonorrhoeae
+granuloma inguinale (donovanosis)	klebsiella granulomatis
+group a streptococcal infection	streptococcus pyogenes
+group b streptococcal infection	streptococcus agalactiae
+haemophilus influenzae infection	haemophilus influenzae
+hand, foot and mouth disease (hfmd)	enteroviruses, mainly coxsackie a virus and enterovirus 71 (ev71)
+hantavirus pulmonary syndrome (hps)	sin nombre virus
+helicobacter pylori infection	helicobacter pylori
+hemolytic-uremic syndrome (hus)	escherichia coli o157:h7
+hemorrhagic fever with renal syndrome (hfrs)	bunyaviridae family
+hepatitis a	hepatitis a virus
+hepatitis b	hepatitis b virus
+hepatitis c	hepatitis c virus
+hepatitis d	hepatitis d virus
+hepatitis e	hepatitis e virus
+herpes simplex	herpes simplex virus 1 and 2 (hsv-1 and hsv-2)
+histoplasmosis	histoplasma capsulatum
+hookworm infection	ancylostoma duodenale and necator americanus
+human bocavirus infection	human bocavirus (hbov)
+human ewingii ehrlichiosis	ehrlichia ewingii
+human granulocytic anaplasmosis (hga)	anaplasma phagocytophilum
+human metapneumovirus infection	human metapneumovirus (hmpv)
+human monocytic ehrlichiosis	ehrlichia chaffeensis
+human papillomavirus (hpv) infection	human papillomavirus (hpv)
+human parainfluenza virus infection	human parainfluenza viruses (hpiv)
+hymenolepiasis	hymenolepis nana and hymenolepis diminuta
+epstein-barr virus infectious mononucleosis (mono)	epstein-barr virus (ebv)
+influenza (flu)	orthomyxoviridae family
+isosporiasis	isospora belli
+kawasaki disease	unknown; evidence supports that it is infectious
+keratitis	multiple
+kingella kingae infection	kingella kingae
+kuru	kuru prion
+lassa fever	lassa virus
+legionellosis (legionnaires' disease)	legionella pneumophila
+legionellosis (pontiac fever)	legionella pneumophila
+leishmaniasis	leishmania genus
+leprosy	mycobacterium leprae and mycobacterium lepromatosis
+leptospirosis	leptospira genus
+listeriosis	listeria monocytogenes
+lyme disease (lyme borreliosis)	usually borrelia burgdorferi and other borrelia species
+lymphatic filariasis (elephantiasis)	wuchereria bancrofti and brugia malayi
+lymphocytic choriomeningitis	lymphocytic choriomeningitis virus (lcmv)
+malaria	plasmodium genus
+marburg hemorrhagic fever (mhf)	marburg virus
+measles	measles virus
+melioidosis (whitmore's disease)	burkholderia pseudomallei
+meningitis	multiple
+meningococcal disease	neisseria meningitidis
+metagonimiasis	usually metagonimus yokagawai
+microsporidiosis	microsporidia phylum
+molluscum contagiosum (mc)	molluscum contagiosum virus (mcv)
+mumps	mumps virus
+murine typhus (endemic typhus)	rickettsia typhi
+mycoplasma pneumonia	mycoplasma pneumoniae
+mycetoma	numerous species of bacteria (actinomycetoma) and fungi (eumycetoma)
+myiasis	parasitic dipterous fly larvae
+neonatal conjunctivitis (ophthalmia neonatorum)	most commonly chlamydia trachomatis and neisseria gonorrhoeae
+(new) variant creutzfeldt-jakob disease (vcjd, nvcjd)	vcjd prion
+nocardiosis	usually nocardia asteroides and other nocardia species
+onchocerciasis (river blindness)	onchocerca volvulus
+paracoccidioidomycosis (south american blastomycosis)	paracoccidioides brasiliensis
+paragonimiasis	usually paragonimus westermani and other paragonimus species
+pasteurellosis	pasteurella genus
+pediculosis capitis (head lice)	pediculus humanus capitis
+pediculosis corporis (body lice)	onchocerca volvulus
+pediculosis pubis (pubic lice, crab lice)	phthirus pubis
+pelvic inflammatory disease (pid)	multiple
+pertussis (whooping cough)	bordetella pertussis
+plague	yersinia pestis
+pneumococcal infection	streptococcus pneumoniae
+pneumocystis pneumonia (pcp)	pneumocystis jirovecii
+pneumonia	multiple
+poliomyelitis	poliovirus
+prevotella infection	prevotella genus
+primary amoebic meningoencephalitis (pam)	usually naegleria fowleri
+progressive multifocal leukoencephalopathy	jc virus
+psittacosis	chlamydophila psittaci
+q fever	coxiella burnetii
+rabies	rabies virus
+rat-bite fever	streptobacillus moniliformis and spirillum minus
+respiratory syncytial virus infection	respiratory syncytial virus (rsv)
+rhinosporidiosis	rhinosporidium seeberi
+rhinovirus infection	rhinovirus
+rickettsial infection	rickettsia genus
+rickettsialpox	rickettsia akari
+rift valley fever (rvf)	rift valley fever virus
+rocky mountain spotted fever (rmsf)	rickettsia rickettsii
+rotavirus infection	rotavirus
+rubella	rubella virus
+salmonellosis	salmonella genus
+sars (severe acute respiratory syndrome)	sars coronavirus
+scabies	sarcoptes scabiei
+schistosomiasis	schistosoma genus
+sepsis	multiple
+shigellosis (bacillary dysentery)	shigella genus
+shingles (herpes zoster)	varicella zoster virus (vzv)
+smallpox (variola)	variola major or variola minor
+sporotrichosis	sporothrix schenckii
+staphylococcal food poisoning	staphylococcus genus
+staphylococcal infection	staphylococcus genus
+strongyloidiasis	strongyloides stercoralis
+syphilis	treponema pallidum
+taeniasis	taenia genus
+tetanus (lockjaw)	clostridium tetani
+tinea barbae (barber's itch)	usually trichophyton genus
+tinea capitis (ringworm of the scalp)	usually trichophyton tonsurans
+tinea corporis (ringworm of the body)	usually trichophyton genus
+tinea cruris (jock itch)	usually epidermophyton floccosum, trichophyton rubrum, and trichophyton mentagrophytes
+tinea manuum (ringworm of the hand)	trichophyton rubrum
+tinea nigra	usually hortaea werneckii
+tinea pedis (athlete’s foot)	usually trichophyton genus
+tinea unguium (onychomycosis)	usually trichophyton genus
+tinea versicolor (pityriasis versicolor)	malassezia genus
+toxocariasis (ocular larva migrans (olm))	toxocara canis or toxocara cati
+toxocariasis (visceral larva migrans (vlm))	toxocara canis or toxocara cati
+toxoplasmosis	toxoplasma gondii
+trichinellosis	trichinella spiralis
+trichomoniasis	trichomonas vaginalis
+trichuriasis (whipworm infection)	trichuris trichiura
+tuberculosis	usually mycobacterium tuberculosis
+tularemia	francisella tularensis
+ureaplasma urealyticum infection	ureaplasma urealyticum
+venezuelan equine encephalitis	venezuelan equine encephalitis virus
+venezuelan hemorrhagic fever	guanarito virus
+viral pneumonia	multiple viruses
+west nile fever	west nile virus
+white piedra (tinea blanca)	trichosporon beigelii
+yersinia pseudotuberculosis infection	yersinia pseudotuberculosis
+yersiniosis	yersinia enterocolitica
+yellow fever	yellow fever virus
+zygomycosis	mucorales order (mucormycosis) and entomophthorales order (entomophthoramycosis)
+b
+black death
+bubonic plague
+g
+great plague of london
+i
+italian plague of 1629-1631
+p
+plague of justinian
+s
+septicemic plague
+y
+yersinia pestis
+a
+acne
+anthrax
+b
+bacterial meningitis
+botulism
+brucellosis
+c
+campylobacter
+chlamydia infection
+cholera
+d
+diphtheria
+dysentery
+e
+epidemic typhus
+epididymitis
+erysipeloid
+g
+gonorrhea
+l
+legionnaires' disease
+leprosy
+leptospirosis
+lyme disease
+lymphogranuloma venereum
+m
+meningococcal disease
+mycoplasma amphoriforme
+n
+necrotizing fasciitis
+nocardiosis
+p
+paratyphoid fever
+pelvic inflammatory disease
+pertussis
+psittacosis
+q
+q fever
+r
+relapsing fever
+rheumatic fever
+s
+scarlet fever
+staphylococcal infection
+streptococcal pharyngitis
+syphilis
+t
+tetanus
+toxic shock syndrome
+tuberculosis
+tubo-ovarian abscess
+tularemia
+typhoid
+typhus
+u
+urinary tract infection
+y
+yaws
+z
+zoonosisa
+amoebiasis
+m
+malaria
+s
+sleeping sickness
+t
+trypanosomiasis
+z
+zoonosis
+kidney cancer
+c
+clear cell sarcoma of the kidney
+r
+renal cell carcinoma
+renal medullary carcinoma
+w
+wilms tumor
+r
+radon
+t
+tobacco
+bevacizumab
+biricodar
+c
+chemotherapy
+cyclophosphamide
+d
+dacarbazine
+i
+interleukin-2
+m
+mastectomy
+melphalan
+methotrexate
+p
+prostatectomy
+r
+radiation therapy
+t
+temozolomide
+breast
+a
+astrocytoma
+b
+brain tumor
+g
+glioblastoma multiforme
+glioma
+p
+primary central nervous system lymphoma
+cancer
+a
+acute myeloid leukemia
+anal cancer
+appendix cancer
+b
+bladder cancer
+bone metastasis
+bone tumor
+c
+the cancer council australia
+cancer of unknown primary origin
+cervical cancer
+cholangiocarcinoma
+chronic myeloid leukemia
+colorectal cancer
+d
+duodenal cancer
+e
+endometrial cancer
+esophageal cancer
+ewing's sarcoma
+eye neoplasm
+g
+gallbladder cancer
+gastrointestinal cancer
+h
+head and neck cancer
+heart cancer
+hepatoblastoma
+hepatocellular carcinoma
+hodgkin's lymphoma
+hypopharyngeal cancer
+l
+laryngeal cancer
+leukemia
+liposarcoma
+liver cancer
+lung cancer
+lung tumor
+lymphoma
+m
+macmillan cancer support
+male breast cancer
+melanoma
+mesothelioma
+metastasis
+metastatic breast cancer
+multiple myeloma
+n
+nasopharynx cancer
+neuroblastoma
+neuroendocrine tumor
+non-hodgkin lymphoma
+o
+oncogene
+oncology
+oral cancer
+oropharyngeal cancer
+ovarian cancer
+p
+p53
+pancreatic cancer
+penile cancer
+precancerous condition
+primary peritoneal carcinoma
+prostate cancer
+r
+relay for life
+rhabdomyosarcoma
+s
+salivary gland neoplasm
+skin cancer
+small intestine cancer
+small-cell carcinoma
+spinal tumor
+stomach cancer
+t
+testicular cancer
+thyroid cancer
+tumors of the hematopoietic and lymphoid tissues
+u
+ureteral cancer
+urethral cancer
+uterine cancer
+v
+vaginal cancer
+vulvar cancer
+autoimmune disease
+g
+graves' disease
+h
+hashimoto's thyroiditis
+j
+juvenile idiopathic arthritis
+l
+latent autoimmune diabetes
+lupus
+m
+myasthenia gravis
+p
+pemphigus
+r
+raynaud's syndrome
+s
+status asthmaticus
+t
+type 1 diabetes 
+b
+brucellosis
+c
+canine distemper
+chytridiomycosis
+colony collapse disorder
+cowpox
+f
+foot-and-mouth disease
+l
+leptospirosis
+q
+q fever
+s
+scrapie
+w
+wet-tail
+a
+addison's disease
+agranulocytosis
+alcohol withdrawal
+alcoholism
+alzheimer's disease
+amyloidosis
+anal fissure
+aortic dissection
+arthritis
+asbestosis
+asthma
+b
+bell's palsy
+beriberi
+bright's disease
+bursitis
+c
+cataplexy
+catarrh
+charcot-marie-tooth disease
+cirrhosis
+cluster headache
+coeliac disease
+colitis
+crohn's disease
+cryptorchidism
+cytokine storm
+d
+dementia with lewy bodies
+dermatitis
+diabetes insipidus
+diabetic ketoacidosis
+diverticulitis
+e
+eczema
+emphysema
+f
+favism
+g
+gastritis
+glaucoma
+goitre
+gout
+h
+haemophilia
+heart failure
+huntington's disease
+hypercholesterolemia
+hyperthyroidism
+hypoglycemia
+hypothyroidism
+i
+icd
+idiopathic pulmonary fibrosis
+incubation period
+m
+marasmus
+mastitis
+megaloblastic anemia
+mental illness
+mesenteric ischemia
+motor neurone disease
+myelodysplastic syndrome
+myopathy
+n
+neurosarcoidosis
+nyctalopia
+o
+oculocerebrorenal syndrome
+osteoarthritis
+p
+parkinson's disease
+pellagra
+pernicious anemia
+pneumoconiosis
+porphyria
+progressive supranuclear palsy
+pulmonary edema
+pulmonary fibrosis
+pulmonary hypertension
+r
+renal disease
+rheumatism
+rickets
+s
+sarcocystis
+sarcoidosis
+scurvy
+sepsis
+sickle-cell disease
+silicosis
+spinal muscular atrophy
+t
+tay-sachs disease
+terminal illness
+trench foot
+type 2 diabetes
+u
+ulcer
+v
+vitiligo
+Τ
+template:infobox diseasea
+aids
+b
+bird flu
+bronchiolitis
+c
+canine distemper
+cervical cancer
+chickenpox
+chikungunya
+common cold
+cowpox
+d
+dengue fever
+e
+ebola virus
+epstein–barr virus
+f
+foot-and-mouth disease
+g
+glandular fever
+h
+hand, foot and mouth disease
+hepatitis
+hepatitis a
+hepatitis b
+hepatitis c
+herpes simplex
+herpes zoster
+hodgkin's lymphoma
+i
+influenza
+influenza pandemic of 1918
+l
+lassa fever
+m
+measles
+mers
+mononucleosis
+mumps
+n
+nipah virus disease
+p
+poliomyelitis
+r
+rabies
+rotavirus
+rubella
+s
+severe acute respiratory syndrome
+stomach flu
+swine influenza
+v
+viral hemorrhagic fever
+viral meningitis
+w
+wart
+west nile virus
+y
+yellow fever
+z
+zika fever
+zoonosis
